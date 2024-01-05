@@ -1,0 +1,14 @@
+nav ul li{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+section{
+	background-repeat: no-repeat;
+	color: white;
+	height: 100vh;
+	width: 100%;
+	background-image: url(https://masterpiecer-images.s3.yandex.net/e20f6b1a7f4511ee9008baea8797b5f2:upscaled)
+}
